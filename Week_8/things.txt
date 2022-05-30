@@ -1,0 +1,10 @@
+phones 35 35.5
+aple 14 0.5
+water 2 200.75
+couch 2002 250.99
+pork 9 8.35
+salt 15 3.5
+peach 3 5.75
+radish 8 98
+tire 12 110
+pantry 99 17.9
